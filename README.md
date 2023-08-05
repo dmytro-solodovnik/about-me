@@ -9,5 +9,6 @@ More details and contacts via
 
 <h2> Projects on GitHub: </h2>
 
-* [military-lifespan-prediction](https://github.com/dmytro-solodovnik/military-lifespan-prediction)
-
+* [Lifetime prediction for belarussian army](https://github.com/dmytro-solodovnik/military-lifespan-prediction)
+* [Looker block with optimisation tools](https://github.com/dmytro-solodovnik/block-looker-optimisation-tools)
+* [Performance tools for Looker](https://github.com/dmytro-solodovnik/looker-performance-tools)
