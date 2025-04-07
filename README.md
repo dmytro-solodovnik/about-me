@@ -9,6 +9,7 @@ More details and contacts via
 
 <h2> Projects on GitHub: </h2>
 
+* [Looker System Activity Tools Block](https://github.com/dmytro-solodovnik/looker-system-activity-tools)
+* [Big Data acceleration tools](https://github.com/dmytro-solodovnik/data-accelerator-tools)
 * [Lifetime prediction for belarussian army](https://github.com/dmytro-solodovnik/military-lifespan-prediction)
-* [Looker block with optimisation tools](https://github.com/dmytro-solodovnik/block-looker-optimisation-tools)
-* [Performance tools for Looker](https://github.com/dmytro-solodovnik/looker-performance-tools)
+  
